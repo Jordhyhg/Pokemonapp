@@ -16,6 +16,10 @@ public class Pokemonapp {
      */
     public static void main(String[] args) {
         System.out.println("hola luffy");
+        Pokemon luffy = new Pokemon();
+        luffy.getNombre();
+        luffy.getNivel();
+        
     }
     
 }
